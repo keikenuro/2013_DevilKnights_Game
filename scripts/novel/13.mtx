@@ -1,0 +1,9 @@
+event: loadText(0|Roger: *suspiro* *suspiro* )
+event: loadText(0|Erika: “Tío Roger” )
+event: loadText(0|El monstruo cada vez se acercaba más a Roger. )
+event: loadText(0|Erika: Nick! Hay que hacer algo. )
+event: loadText(0|Nick:Si.Pero ten cuidado Erika )
+event: loadText(0|Nick:Tu madre me mataría si supiese que dejé que te lastimen. )
+event: loadText(0|Erika:  Hmph. Tranquilo, puedo cuidarme sola. )
+event: loadText(0|Nick: Jeje , bien. Vamos. )
+EOF

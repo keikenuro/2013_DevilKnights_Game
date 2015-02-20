@@ -1,0 +1,4 @@
+actor: 1|Nick Evans|Frio.png
+event: loadImg(1|NULL)
+event: loadText(1|¿Que quieres?)
+EOF

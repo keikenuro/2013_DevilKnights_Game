@@ -1,0 +1,12 @@
+event: loadText(0|Erika: ¿Lo logramos? )
+event: loadText(0|Nick: Eso parece )
+event: loadText(0|Erika: Esa es…¿tía? )
+event: loadText(0|Roger: ¡¿?!. Querida )
+event: loadText(0|Margaret: Cuida….a Sam )
+event: loadText(0|Roger: No no me hagas esto! No me dejes! )
+event: loadText(0|Margaret: Te …a…mo)
+event: loadText(0|El cadáver de Margaret empezó a desvanecerse  )
+event: loadText(0|frente a nuestros ojos.)
+event: loadText(0|Como si su cuerpo hubiese encontrado paz )
+event: loadText(0|luego de tanto sufrimiento)
+EOF

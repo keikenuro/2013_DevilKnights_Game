@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Slot>
+        <Party>
+                <Personaje id = "Nick">
+                        <Nivel value = "1"></Nivel>
+                        <Exp value = "0"></Exp>
+                        <HP value = "100"></HP>
+                        <MP value = "50"></MP>
+                        <AtkF value = "15"></AtkF>
+                        <AtkM value = "10"></AtkM>
+                        <DefF value = "10"></DefF>
+                        <DefM value = "10"></DefM>
+                        <Speed value = "15"></Speed>
+                        <Equipamiento>
+                                <Cabeza objeto_id = "0"></Cabeza>
+                                <Cuerpo objeto_id = "0"></Cuerpo>
+                                <Arma   objeto_id = "0"></Arma>
+                                <Acce1  objeto_id = "0"></Acce1>
+                                <Acce2  objeto_id = "0"></Acce2>
+                                <Botas  objeto_id = "0"></Botas>
+                        </Equipamiento>
+                        <Skills>
+                                <Skill id = "1"></Skill>
+                                <Skill id = "2"></Skill>
+                        </Skills>
+                </Personaje>
+
+                <Personaje id = "Erika">
+                        <Nivel value = "2"></Nivel>
+                        <Exp value = "13"></Exp>
+                        <HP value = "100"></HP>
+                        <MP value = "50"></MP>
+                        <AtkF value = "15"></AtkF>
+                        <AtkM value = "10"></AtkM>
+                        <DefF value = "10"></DefF>
+                        <DefM value = "10"></DefM>
+                        <Speed value = "15"></Speed>
+                        <Equipamiento>
+                                <Cabeza objeto_id = "0"></Cabeza>
+                                <Cuerpo objeto_id = "0"></Cuerpo>
+                                <Arma   objeto_id = "0"></Arma>
+                                <Acce1  objeto_id = "0"></Acce1>
+                                <Acce2  objeto_id = "0"></Acce2>
+                                <Botas  objeto_id = "0"></Botas>
+                        </Equipamiento>
+                        <Skills>
+                                <Skill id = "3"></Skill>
+                                <Skill id = "2"></Skill>
+                                <Skill id = "1"></Skill>
+                        </Skills>
+                </Personaje>
+        </Party>
+       
+        <Inventario>
+                <Item item_id = "" cantidad = "" habilitados = ""></Item>
+                <Item item_id = "" cantidad = "" habilitados = ""></Item>
+                <Item item_id = "" cantidad = "" habilitados = ""></Item>
+                <Item item_id = "" cantidad = "" habilitados = ""></Item>
+                <Item item_id = "" cantidad = "" habilitados = ""></Item>
+        </Inventario>
+
+        <Oro>0</Oro>
+       
+       <Tiempo>00:00:00</Tiempo>
+        
+</Slot>

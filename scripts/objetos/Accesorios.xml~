@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Accesorios>
+        <Accesorio id = "1">
+		<Nombre value = "Colgante de Zafiro"></Nombre>
+                <Descripcion value = "Una piedra preciosa sostenida por un hilo."></Descripcion>
+		<Efecto attr = "" value = "Aumenta el mana máximo en un 5%"></Efecto>
+		<Costo value = "200"></Costo>
+        </Accesorio>
+        <Accesorio id = "2">
+		<Nombre value = "Colgante de Ruby"></Nombre>
+                <Descripcion value = "Una piedra preciosa sostenida por un hilo."></Descripcion>
+		<Efecto value = "Aumenta la salud máxima en un 10%"></Efecto>
+		<Costo attr = "" value = "300"></Costo>
+        </Accesorio>
+        <Accesorio id = "3">
+		<Nombre value = "Colgante de Topaz"></Nombre>
+                <Descripcion value = "Una piedra preciosa sostenida por un hilo."></Descripcion>
+		<Efecto value = "Aumenta el mana y salud máximos en un 5%"></Efecto>
+		<Costo attr = "" value = "800"></Costo>
+        </Accesorio>
+</Accesorios>

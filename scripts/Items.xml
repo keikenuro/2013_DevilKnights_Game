@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Items>
+	<Item id = "0x1">
+		<Nombre value = "Pocion"></Nombre>
+		<Descripcion value = "Recupera 25 puntos de vida a un aliado."></Descripcion>
+		<Usable value = "1"></Usable>
+		<Equipable value = "0"></Equipable>
+		<Efecto vida = "+25" magia = "0" speed = "0" atkF = "0" atkM = "0"></Efecto>
+	</Item>
+
+	<Item id = "0x2">
+		<Nombre value = "Eter"></Nombre>
+		<Descripcion value = "Recupera 25 puntos de magia a un aliado."></Descripcion>
+		<Usable value = "1"></Usable>
+		<Equipable value = "0"></Equipable>
+		<Efecto vida = "0" magia = "25" speed = "0" atkF = "0" atkM = "0"></Efecto>
+	</Item>
+
+	<Item id = "0x3">
+		<Nombre value = "Revive"></Nombre>
+		<Descripcion value = "Revive a un aliado con un 1% de su vida total."></Descripcion>
+		<Usable value = "1"></Usable>
+		<Equipable value = "0"></Equipable>
+		<Efecto vida = "%1T" magia = "0" speed = "0" atkF = "0" atkM = "0"></Efecto>
+	</Item>
+
+	<Item id = "0x4">
+		<Nombre value = "Granada"></Nombre>
+		<Descripcion value = "Al arrojarla provoca un daño de 100 puntos."></Descripcion>
+		<Usable value = "1"></Usable>
+		<Equipable value = "0"></Equipable>
+		<Efecto vida = "-100" magia = "0" speed = "0" atkF = "0" atkM = "0"></Efecto>
+	</Item>
+
+	<Item_Clave id = "0x1">
+		<Nombre value = "Libro de cuentos"></Nombre>
+		<Descripcion value = "Viejo libro de la familia Wagner. Recuerdos de Nick."></Descripcion>
+		<Usable value = "0"></Usable>
+		<Equipable value = "0"></Equipable>
+		<Efecto vida = "0" magia = "0" speed = "0" atkF = "0" atkM = "0"></Efecto>
+	</Item_Clave>
+
+	<Item_Clave id = "0x2">
+		<Nombre value = "Cinta de Margaret"></Nombre>
+		<Descripcion value = "Prenda que usaba Margaret."></Descripcion>
+		<Usable value = "0"></Usable>
+		<Equipable value = "0"></Equipable>
+		<Efecto vida = "0" magia = "0" speed = "0" atkF = "0" atkM = "0"></Efecto>
+	</Item_Clave>
+</Items>

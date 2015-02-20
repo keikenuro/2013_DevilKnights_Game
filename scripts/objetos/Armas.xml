@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Armas>
+	 <Arma id = "0x0">
+                <Nombre value = ""></Nombre>
+                <Descripcion value = ""></Descripcion>
+                <Danio value = ""></Danio>
+                <Magia value = ""></Magia>
+                <Costo value = ""></Costo>
+        </Arma>
+              
+	 <Arma id = "0x1">
+                <Nombre value = "Glock"></Nombre>
+                <Descripcion value = "Pistola rápida y ligera."></Descripcion>
+                <Danio value = "30"></Danio>
+                <Magia value = "0"></Magia>
+                <Costo value = "200"></Costo>
+        </Arma>
+        <Arma id = "0x2">
+                <Nombre value = "Striker"></Nombre>
+                <Descripcion value = "Pistola más pesada. Mayor daño."></Descripcion>
+                <Danio value = "55"></Danio>
+                <Magia value = "0"></Magia>
+                <Costo value = "500"></Costo>
+        </Arma>
+        <Arma id = "0x3">
+                <Nombre value = "Quick Slayer"></Nombre>
+                <Descripcion value = "Espada corta rápida y veloz."></Descripcion>
+                <Danio value = "45"></Danio>
+                <Magia value = "15"></Magia>
+                <Costo value = "500"></Costo>
+        </Arma>
+</Armas>

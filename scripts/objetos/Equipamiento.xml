@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Equipamiento>
+	<Armadura id = "0">
+                <Nombre value = ""></Nombre>
+                <Descripcion value = ""></Descripcion>
+                <ArmFisica value = ""></ArmFisica>
+                <ArmMagica value = ""></ArmMagica>
+                <Vida value=""></Vida>
+                <Mana value=""></Mana>
+                <Costo value = ""></Costo>                
+        </Armadura>
+        <Armadura id = "1">
+                <Nombre value = "Pechera de Cuero"></Nombre>
+                <Descripcion value = "Prenda protectora de principios del siglo pasado."></Descripcion>
+                <ArmFisica value = "10" vida = "20" mana = "0"></ArmFisica>
+                <ArmMagica value = "0" vida = "0" mana = "0"></ArmMagica>
+                <Costo value = "300"></Costo>
+        </Armadura>
+        <Armadura id = "2">
+                <Nombre value = "Pechera de Bronce"></Nombre>
+                <Descripcion value = "Prenda protectora decorada con bronce reluciente."></Descripcion>
+                <ArmFisica value = "25" vida = "50" mana = "0"></ArmFisica>
+                <ArmMagica value = "10" vida = "0" mana = "20"></ArmMagica>
+                <Costo value = "600"></Costo>
+        </Armadura>
+
+	<Casco id = "0">
+                <Nombre value = ""></Nombre>
+                <Descripcion value = ""></Descripcion>
+                <ArmFisica value = "" vida = "" mana = ""></ArmFisica>
+                <ArmMagica value = "" vida = "" mana = ""></ArmMagica>
+                <Costo value = ""></Costo>
+        </Casco>
+        <Casco id = "1">
+                <Nombre value = "Casco Ligero"></Nombre>
+                <Descripcion value = "Pequeños casco improvisado con telas."></Descripcion>
+                <ArmFisica value = "10" vida = "20" mana = "0"></ArmFisica>
+                <ArmMagica value = "10" vida = "0" mana = "10"></ArmMagica>
+                <Costo value = "200"></Costo>
+        </Casco>
+        <Casco id = "2">
+                <Nombre value = "Casco Pesado"></Nombre>
+                <Descripcion value = "Casco que recuerda vagamente al de un soldado."></Descripcion>
+                <ArmFisica value = "30" vida = "50" mana = "0"></ArmFisica>
+                <ArmMagica value = "0" vida = "0" mana = "0"></ArmMagica>
+                <Costo value = "300"></Costo>
+        </Casco>
+        <Casco id = "3">
+                <Nombre value = "Galera"></Nombre>
+                <Descripcion value = "Sombrero de mago y de caballeros de la nobleza."></Descripcion>
+                <ArmFisica value = "10" vida = "15" mana = "0"></ArmFisica>
+                <ArmMagica value = "50" vida = "0" mana = "50"></ArmMagica>
+                <Costo value = "400"></Costo>
+        </Casco>
+        <Casco id = "4">
+                <Nombre value = "Gorro de invierno"></Nombre>
+                <Descripcion value = "Pequeños gorro que sirve de resguardo en las heladas."></Descripcion>
+                <ArmFisica value = "20" vida = "30" mana = "0"></ArmFisica>
+                <ArmMagica value = "45" vida = "0" mana = "30"></ArmMagica>
+                <Costo value = "600"></Costo>
+        </Casco>
+        
+	<Bota id = "0">
+                <Nombre value = ""></Nombre>
+                <Descripcion value = ""></Descripcion>
+                <ArmFisica value = "" vida = "" mana = ""></ArmFisica>
+                <ArmMagica value = "" vida = "" mana = ""></ArmMagica>
+                <Costo value = ""></Costo>
+        </Bota>
+        <Bota id = "1">
+                <Nombre value = "Botas de Cuero"></Nombre>
+                <Descripcion value = "Calzado hecho de cuero."></Descripcion>
+                <Movimiento value = "10"></Movimiento>
+                <Costo value = "200"></Costo>
+        </Bota>
+        <Bota id = "2">
+                <Nombre value = "Botas de Elfo"></Nombre>
+                <Descripcion value = "Calzado diseñado por elfos."></Descripcion>
+                <Movimiento value = "15"></Movimiento>
+                <Costo value = "500"></Costo>
+        </Bota>
+</Equipamiento>

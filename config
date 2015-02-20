@@ -1,0 +1,8 @@
+[IMAGE]
+!fullscreen 1
+!width 800
+!height 540
+[SOUND]
+!on 1
+[JOYSTICK]
+!enable 0

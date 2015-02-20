@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Suposición para como formar el equipo y, bases para el inventario :P
+                <Equip>
+                        <Head id = "x">
+                        <Body id = "x">
+                        <Arma id = "x">
+                        <Acce1 id = "x">
+                        <Acce2 id = "x">
+                </Equip>
+-->
+<party>
+        <Personaje id = "Nick">
+                <lv>1</lv>
+                <HP>500</HP>
+                <MP>0</MP>
+                <AtkF>70</AtkF>
+                <AtkM>0</AtkM>
+        </Personaje>
+          
+        <Personaje id = "Erika">
+                <lv>1</lv>
+                <HP>470</HP>
+                <MP>300</MP>
+                <AtkF>30</AtkF>
+                <AtkM>60</AtkM>
+        </Personaje>
+</party>

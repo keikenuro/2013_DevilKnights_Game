@@ -1,0 +1,4 @@
+event: loadText(0|?????:“…ans.Señor Evans” )
+event: loadText(0|????:“La cena estará lista en unos minutos. Por favor baje al comedor”. )
+event: loadText(0|Nick:“Ah sí, gracias”.)
+EOF

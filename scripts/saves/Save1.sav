@@ -1,0 +1,26 @@
+[SAVE $1]
+[PARTY]
+[PERSONAJE $1]
+Nivel=1
+Exp = 40
+MaxExp = 100
+HP = 200
+MP = 0
+Skills = (1, 2)
+Equip = ((1,2), (2,4), (3,1))
+[/PERSONAJE]
+[/PARTY]
+[INVENTARIO]
+Lista = ()
+[/INVENTARIO]
+[ORO $0]
+[TIEMPO]
+Horas = 0
+Mins = 0
+Segs = 0
+[/TIEMPO]
+[MAPA $1
+[EVENTS]
+Lista = ()
+[/EVENTS]
+[/SAVE]

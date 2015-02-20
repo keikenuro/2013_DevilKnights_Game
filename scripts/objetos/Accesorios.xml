@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Accesorios>
+        <Accesorio id = "1">
+		<Nombre value = "Colgante de Zafiro"></Nombre>
+                <Descripcion value = "Una piedra preciosa sostenida por un hilo."></Descripcion>
+		<Efecto attr = "m_max" value = "+,5,%"></Efecto>
+		<Costo value = "200"></Costo>
+        </Accesorio>
+        <Accesorio id = "2">
+		<Nombre value = "Colgante de Ruby"></Nombre>
+                <Descripcion value = "Una piedra preciosa sostenida por un hilo."></Descripcion>
+		<Efecto attr = "h_max" value = "+,10,%"></Efecto>
+		<Costo value = "300"></Costo>
+        </Accesorio>
+        <Accesorio id = "3">
+		<Nombre value = "Colgante de Topaz"></Nombre>
+                <Descripcion value = "Una piedra preciosa sostenida por un hilo."></Descripcion>
+		<Efecto attr = "m_max, h_max" value = "+,10,%|+,10,%"></Efecto>
+		<Costo value = "800"></Costo>
+        </Accesorio>
+</Accesorios>

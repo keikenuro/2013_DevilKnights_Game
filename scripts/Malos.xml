@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Malos>
+        <Malo id = "1">                
+                <Nombre value = "Clever"></Nombre>
+                <HP value = "80"></HP>
+                <MP value = "500"></MP>
+                <AtkF value = "10"></AtkF>
+                <AtkM value = "25"></AtkM>
+                <DefF value = "10"></DefF>
+                <DefM value = "10"></DefM>
+                <Speed value = "10"></Speed>        
+        </Malo>
+        
+        <Malo id = "2">
+                <Nombre value = "Dasstingo"></Nombre>
+                <HP value = "100"></HP>
+                <MP value = "100"></MP>
+                <AtkF value = "25"></AtkF>
+                <AtkM value = "10"></AtkM>
+                <DefF value = "10"></DefF>
+                <DefM value = "10"></DefM>
+                <Speed value = "10"></Speed>
+        </Malo>
+        
+        <Malo id = "3">
+                <Nombre value = "Undead Girl"></Nombre>
+                <HP value = "100"></HP>
+                <MP value = "50"></MP>
+                <AtkF value = "15"></AtkF>
+                <AtkM value = "10"></AtkM>
+                <DefF value = "10"></DefF>
+                <DefM value = "10"></DefM>
+                <Speed value = "15"></Speed>
+        </Malo>
+        
+        <Malo id = "4">
+                <Nombre value = "Zombie"></Nombre>
+                <HP value = "100"></HP>
+                <MP value = "50"></MP>
+                <AtkF value = "15"></AtkF>
+                <AtkM value = "10"></AtkM>
+                <DefF value = "10"></DefF>
+                <DefM value = "10"></DefM>
+                <Speed value = "15"></Speed>
+        </Malo>
+</Malos>

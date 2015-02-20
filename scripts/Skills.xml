@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Skills>
+	<Skill id = "1">
+		<Nombre value = "Disparo Certero"></Nombre>
+		<Descripcion value = ""></Descripcion>
+		<Nivel value = "1"></Nivel>
+		<Area value = "Individual"></Area>
+		<Precision value = "100"></Precision>
+		<Costo value = "10"></Costo>
+		<Efecto value = "Daño" args = "100|20,%,AtkF"></Efecto>
+		<Atributo value = "Impacto"></Atributo>
+		<Estado value = "Confusion" precision = "50"></Estado>		
+	</Skill>
+	<Skill id = "2">
+		<Nombre value = "Prisa"></Nombre>
+		<Descripcion value = ""></Descripcion>
+		<Nivel value = "5"></Nivel>
+		<Area value = "Self"></Area>
+		<Precision value = "90"></Precision>
+		<Costo value = "20"></Costo>
+		<Efecto value = "Buff" args = "20,%,Vel,5"></Efecto>
+		<Atributo value = "NULL"></Atributo>
+		<Estado value = "Velocidad" precision = "100"></Estado>		
+	</Skill>
+	<Skill id = "3">
+		<Nombre value = "Granada"></Nombre>
+		<Descripcion value = ""></Descripcion>
+		<Nivel value = "8"></Nivel>
+		<Area value = "Individual"></Area>
+		<Precision value = "70"></Precision>
+		<Costo value = "30"></Costo>
+		<Efecto value = "Daño" args = "200|20,%,AtkF"></Efecto>
+		<Atributo value = "Impacto"></Atributo>
+		<Estado value = "NULL" precision = "0"></Estado>		
+	</Skill>
+	<Skill id = "4">
+		<Nombre value = "Rafaga"></Nombre>
+		<Descripcion value = ""></Descripcion>
+		<Nivel value = "15"></Nivel>
+		<Area value = "Grupo"></Area>
+		<Precision value = "60"></Precision>
+		<Costo value = "50"></Costo>
+		<Efecto value = "Daño" args = "350|10,%,AtkF"></Efecto>
+		<Atributo value = "Impacto"></Atributo>
+		<Estado value = "Confusion" precision = "50"></Estado>		
+	</Skill>
+	<Skill id = "5">
+		<Nombre value = "Bola de Fuego"></Nombre>
+		<Descripcion value = ""></Descripcion>
+		<Nivel value = "1"></Nivel>
+		<Area value = "Individual"></Area>
+		<Precision value = "80"></Precision>
+		<Costo value = "15"></Costo>
+		<Efecto value = "Daño" args = "200|10,%,AtkM"></Efecto>
+		<Atributo value = "Fuego"></Atributo>
+		<Estado value = "Quemado" precision = "50"></Estado>		
+	</Skill>
+	<Skill id = "6">
+		<Nombre value = "Cura"></Nombre>
+		<Descripcion value = ""></Descripcion>
+		<Nivel value = "5"></Nivel>
+		<Area value = "Grupo"></Area>
+		<Precision value = "100"></Precision>
+		<Costo value = "30"></Costo>
+		<Efecto value = "Buff" args = "200|5,%,AtkM"></Efecto>
+		<Atributo value = "NULL"></Atributo>
+		<Estado value = "NULL" precision = "0"></Estado>		
+	</Skill>
+	<Skill id = "7">
+		<Nombre value = "Sangre Hirviente"></Nombre>
+		<Descripcion value = ""></Descripcion>
+		<Nivel value = "9"></Nivel>
+		<Area value = "Self"></Area>
+		<Precision value = "90"></Precision>
+		<Costo value = "50"></Costo>
+		<Efecto value = "Buff" args = "5,%,AtkM, 3|10,%,Vel, 3"></Efecto>
+		<Atributo value = "NULL"></Atributo>
+		<Estado value = "DañoFisico+|Velocidad+" precision = "100"></Estado>		
+	</Skill>
+	<Skill id = "8">
+		<Nombre value = "Rafaga de Espadas"></Nombre>
+		<Descripcion value = ""></Descripcion>
+		<Nivel value = "15"></Nivel>
+		<Area value = "Grupo"></Area>
+		<Precision value = "60"></Precision>
+		<Costo value = "20"></Costo>
+		<Efecto value = "Daño" args = "350|10,%, AtkM"></Efecto>
+		<Atributo value = "Fuego"></Atributo>
+		<Estado value = "Quemado" precision = "40"></Estado>		
+	</Skill>
+</Skills>
